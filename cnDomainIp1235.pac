@@ -1,7 +1,7 @@
 
 var proxy = "PROXY 127.0.0.1:1235";
 
-var direct = 'DIRECT;';
+var direct = 'DIRECT';
 
 
 
